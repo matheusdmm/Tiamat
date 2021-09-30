@@ -1,0 +1,33 @@
+//  ==== Changelog: ======================================
+//  Implemented proper xor swap function 
+//  
+//  Implemented standard square root algorithm.
+//
+//  Implemented Log(n) algorithm.
+//
+//  Implemented Log2 algorithm.
+///
+//  Implemented lerp(a, b, t) and inverselerp(a, b, v) algorithm.
+//
+//  Remap algorithm done.
+//
+//  Redone Linear Search
+//
+//  Binary search implemented
+//
+//  Quicksort implemented
+//
+//  ==== To Do: ==============================================
+//  ADJUST HEXA ALGORITHMS
+//
+//  Check again some bitwise operations, 
+//  they seem buggin'
+//
+//  NEED TO DO DERIVATIVE AND LINEAR COMBINATION 
+//  PROBABLY FOR LAST
+//
+//  Redo RADIX
+//
+//
+//
+/// ==========================================================
