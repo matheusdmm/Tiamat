@@ -1,3 +1,4 @@
+```
 *------------------------------------------------------*
 *                        
 *                   ,     \    /      ,        
@@ -29,11 +30,11 @@
 *   
 *                          0.3
 *------------------------------------------------------*
+```
 
+# ========= Manual & Documentation =========
 
-========= Manual & Documentation =========
-
-What is Tiamat?
+### What is Tiamat?
     Tiamat is a Single Header Math, Bit & Hex hacking lib,
     it has so many included functions and implementations
     without the need to call thousands of another libraries.
@@ -54,7 +55,7 @@ What is Tiamat?
 
 
 
-Main features:
+### Main features:
 
     Tiamat handles at this point:
     - Int conversion to binary (up to X base 10):
@@ -83,16 +84,17 @@ Main features:
     - 
 
 
-Known bugs:
+### Known bugs:
 
 
-Usage:
+### Usage:
     See the tiamat_test.cpp to simple usage, also see the tiamat_arduino_test.ino to see a basic project usage.
     
 
-License:
-    
+### License:
+    GPLv3
 
 
-Credits:
+### Credits:
+    Matheus da Fonseca Dummer
     
